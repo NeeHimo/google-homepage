@@ -1,12 +1,46 @@
-/* .topnav {
+.body{
+    text-align: center;
+}
+
+
+.topnav {
     list-style-type: square type none;;
-    margin:110;
-    padding:110;
-} */
-.topnav{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    float: right;
+    text-align: center;
+}
+
+
+.logo{
+    text-align: -webkit-center;
+    padding-top: 209;
+    padding-left: 400;
+}
     
+
+}
+.ls{
+    text-align: center;
+    margin: 100;
+
+
+}
+ .buttonleft{
+    margin-left:500 ;
+    margin-top: 30;
+    float: center;
+    padding:
+} 
+.button.innerButton{
+    margin-left: 100;
+}
+.button span{
+    position: relative;
+    margin-left: 0;
+    padding-left: 10;
+}
+.button span:active{
+    top: 1px;
 }
